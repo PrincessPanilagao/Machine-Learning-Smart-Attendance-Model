@@ -14,12 +14,12 @@
 ---
 
 ## 📋 **Table of Contents**
-1. [Features](#features)
-2. [System Architecture](#system-architecture)
-3. [Technology Stack](#technology-stack)
-4. [Dataset](#dataset)
-5. [Model Details](#model-details)
-6. [Model Walkthrough](#model-walkthrough)
+1. [Features](#-features)
+2. [System Architecture](#-system-architecture)
+3. [Technology Stack](#-technology-stack)
+4. [Dataset](#-dataset)
+5. [Model Details](#-model-details)
+6. [Model Walkthrough](#-model-walkthrough)
 
 ---
 
